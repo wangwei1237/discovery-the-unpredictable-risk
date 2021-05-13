@@ -1,2 +1,9 @@
-# discovery-the-unpredictable-risk
-预见未知的风险
+# 预见未知的风险
+
+{% hint style='info' %}
+总结自己测试开发工作的所见所闻以及感想。
+
+目前还处于资料收集和梳理中，如有进展，会及时更新。
+{% endhint %}
+
+
